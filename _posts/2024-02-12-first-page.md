@@ -1,16 +1,18 @@
 ---
-title: 第一篇博客
+title: 你好，世界！
 date: 2022-03-26 10:34:00 +0800
 categories: [随笔]
 tags: [生活]
 pin: true
-author: vivi
+author: 湾区书记汤姆
 
 toc: true
 comments: true
+typora-root-url: ../../wchihuahua09.github.io
 math: false
 mermaid: true
-
+image:
+  src: /assets/blog_res/2021-03-30-hello-world.assets/huoshan.jpg
   alt: 签约成功
 
 
@@ -28,7 +30,7 @@ int main(){
 }
 ```
 
+![image-20220327184021601](/assets/blog_res/2021-03-30-hello-world.assets/image-20220327184021601.png)
 
-
-
+![Screen Shot 2022-04-03 at 11.46.41 AM](/assets/blog_res/2021-03-30-hello-world.assets/Screen Shot 2022-04-03 at 11.46.41 AM.png)
 

@@ -8,7 +8,7 @@ author: 湾区书记汤姆
 
 toc: true
 comments: true
-typora-root-url: ../../tomstillcoding.github.io
+typora-root-url: ../../wchihuahua09.github.io
 math: false
 mermaid: true
 
@@ -32,3 +32,4 @@ int main(){
 ![image-20220327184021601](/assets/blog_res/2021-03-30-hello-world.assets/image-20220327184021601.png)
 
 ![Screen Shot 2022-04-03 at 11.46.41 AM](/assets/blog_res/2021-03-30-hello-world.assets/Screen Shot 2022-04-03 at 11.46.41 AM.png)
+
